@@ -193,7 +193,7 @@ DISABLE_RILD_OEM_HOOK := true
 TARGET_PROVIDES_QTI_TELEPHONY_JAR := true
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2019-04-01
+VENDOR_SECURITY_PATCH := 2019-05-05
 
 # SELinux
 include device/qcom/sepolicy-legacy-um/sepolicy.mk
