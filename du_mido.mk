@@ -25,7 +25,7 @@ $(call inherit-product, device/xiaomi/mido/device.mk)
 $(call inherit-product, vendor/du/config/common_full_phone.mk)
 
 # Inherit build type
-DU_BUILD_TYPE := OFFICIAL
+DU_BUILD_TYPE := UNOFFICIAL
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mido
